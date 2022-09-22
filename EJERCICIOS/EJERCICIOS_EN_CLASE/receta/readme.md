@@ -24,12 +24,12 @@
             <li>Forra la bandeja del horno con papel sulfurizado o vegetal y forma las galletas de avena haciendo <br> pequeñas bolas con las manos y luego aplastándolas. Para obtener unas galletas de avena crujientes, el truco está en no hacerlas muy gruesas.</li> <br>
             <li>Con el horno precalentado a 200 ºC con calor arriba y abajo y con la función de ventilador (en caso de tenerla), hornea <br> las galletas de avena durante unos 10 minutos o hasta que estén doraditas. Deben quedar ligeramente tostadas, no mucho.</li> <br>
             <li>Pasado ese tiempo, deja que las galletas de avenase enfríen y guárdalas en una caja o bote cerrado para que sigan crujientes. ¡Duran hasta 3 días! </li>
-         </ol>
+ </ol>
 
-         <img src="https://t1.rg.ltmcdn.com/es/posts/3/0/3/galletas_de_avena_faciles_y_rapidas_67303_paso_3_600.webp" width="600px" alt="galletas de avena"><br>
-         <br>
-         <h2>ENCUENTRA LA RECETA ORIGINAL EN</h2>
-         <a href="https://www.recetasgratis.net/receta-de-galletas-de-avena-faciles-y-rapidas-67303.html"  target="_blank"><h1>clik aqui</h1></a>
+ <img src="https://t1.rg.ltmcdn.com/es/posts/3/0/3/galletas_de_avena_faciles_y_rapidas_67303_paso_3_600.webp" width="600px" alt="galletas de avena"><br>
+ <br>
+ <h2>ENCUENTRA LA RECETA ORIGINAL EN</h2>
+ <a href="https://www.recetasgratis.net/receta-de-galletas-de-avena-faciles-y-rapidas-67303.html"  target="_blank"><h1>clik aqui</h1></a>
 
     </body>     
 </html>
