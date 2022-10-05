@@ -76,14 +76,14 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
   
         a) header
         b) footer
-        c) nav
+        *c) nav
         d) aside
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
   
         a) mark
         b) article
-        c) time
+        *c) time
         d) span
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
