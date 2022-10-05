@@ -7,11 +7,11 @@ Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
 
-R=
+R=enlaces y conexiones que permiten saltar de un punto a otro, en un mismo texto, o a otro texto 
 
 2. ¿Qué es la hipermedia? (valor 1.0)
 
-R=son un conjunto elementos que se enlazan entresi (textos, imagenes, sonido, videos, etc)
+R=son elementos multimedia (imagenes, sonido, videos, etc)
 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
 
@@ -228,7 +228,7 @@ Preguntas:
 18. ¿Cuál es el HTML correcto para insertar una imagen de fondo? (valor 0.24)
   
           a) <body bg="background.gif">
-          b) <body style="background-image:url(background.gif)">
+          *b) <body style="background-image:url(background.gif)">
           c) <background img="background.gif">
   
 19. Los comentarios HTML comienzan con ![image](https://user-images.githubusercontent.com/91554777/164576568-aa1ae841-a85f-486b-b286-be51bfc8cd4e.png) (valor 0.24)
@@ -243,7 +243,7 @@ Preguntas:
   
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
-        a) title
+        *a) title
         b) head
         c) meta
   
@@ -251,27 +251,27 @@ Preguntas:
 
         a) longdesc
         b) src
-        c) alt
+        *c) alt
         d) title
   
 23. ¿Qué tipo de documento es correcto para HTML5? (valor 0.24)
   
         a) <!DOCTYPE html>
-        b) <!DOCTYPE HTML5>
+        *b) <!DOCTYPE HTML5>
   
 c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5/strict.dtd\">
   
 24.¿Qué elemento HTML se usa para especificar un pie de página para un documentoo sección? (valor 0.24)
   
         a) bottom
-        b) footer
+        *b) footer
         c) section
   
 25. ¿Cuál es el elemento HTML correcto para reproducir archivos de video? (valor 0.24)
   
         a) video
         b) media
-        c) movie
+        *c) movie
   
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la maquetación en código html, valor 18)
   
