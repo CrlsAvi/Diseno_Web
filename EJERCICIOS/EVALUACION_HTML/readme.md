@@ -7,25 +7,27 @@ Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
 
-R=enlaces y conexiones que permiten saltar de un punto a otro, en un mismo texto, o a otro texto 
+R= enlaces y conexiones que permiten saltar de un punto a otro, en un mismo texto, o a otro texto 
 
 2. ¿Qué es la hipermedia? (valor 1.0)
 
-R=son elementos multimedia (imagenes, sonido, videos, etc)
+R= son elementos multimedia (imagenes, sonido, videos, etc)
 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
 
-R=
+R= permiten estructurar un documento mediante el uso de etiquetas 
 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
 
-R=
+R= 
 
 5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
 
 R=es hacer que los archivos html, css, etc se vean en una pagina o pesentacio  interactiva
 
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
+
+R= 
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
