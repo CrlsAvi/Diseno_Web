@@ -1,0 +1,66 @@
+html:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilos.css">
+    <title>proyecto_final_css</title>
+</head>
+<body>
+    <header>
+        <div><img src="img/logo.svg"> </div>
+        <hr>
+        <nav>
+            <ul>
+                <li>Residentes</li>
+                <li>Negocios</li>
+                <li>Visitantes</li>
+                <li>Gobierno</li>
+            </ul>
+        </nav>    
+        <div class="vectorr">
+            <div class="paisajee">
+                <img src="img/hero-vector.svg">
+                <h1>APRENDE A PROGRAMAR
+                    EN LAS
+                    ESCUELAS DE CÓDIGO
+                    DE LA CDMX</h1>
+            </div>
+        </div>    
+        <div class="abajo">
+            <h2>¿Quién se puede inscribir?</h2>
+            <p>Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la semana.<br>
+            *Menores de edad deberán entrar a las instalaciones acompañados de un adulto.</p>
+        </div>
+    </header>
+</body>
+
+
+css:
+
+
+/* nav */
+ul{
+    display: flex;
+    margin-right: 15px;
+    justify-content: right;
+}
+
+li{
+    list-style: none;
+    margin-right: 30px;
+}
+
+.vectorr{
+    background: url(../img/hero-vector.svg)
+}
+
+.paisajee{
+    background: url(../img/paisaje.jpg)
+}
+.abajo{
+    text-align: center;
+}
